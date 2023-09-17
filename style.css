@@ -9,7 +9,7 @@ html,body{
     font-family: 'Mooli', sans-serif;
 }
 body{
-    background-color: #1868ae;
+    background-color: #320d3e;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,7 +17,7 @@ body{
 .card {
     height:500px;
     width: 400px;
-    background-color: #d9a5b3;
+    background-color: #ffd79d;
     border-radius: 13px;
 }
 .card img{

@@ -42,19 +42,26 @@ body{
     left: 116px;
     top:44px;  
 }
+.card #pa{
+    font-size: 13px;
+    position: relative;
+    color: white;
+    left: 43px;
+    top: 57px;
+}
 .card h4{
     position: relative;
     color: red;
     left: 160px;
-    top: 66px;
+    top: 77px;
 }
 
 .card button{
     position: relative;
-    background-color: rgb(77, 167, 77);
+    background-color: green;
     color: white;
     left: 145px;
-    top:127px;
+    top:105px;
     padding: 10px;
     border-radius:10px;
     border: none;

@@ -12,6 +12,8 @@ btn.addEventListener("click", function(){
         check=1;
     }else{
         btn.innerHTML="Accept Request"
+        btn.style.backgroundColor="green"
+
         h4.innerHTML="Stranger";
         h4.style.color="red";
         check=0;
